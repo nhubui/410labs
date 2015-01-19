@@ -1,2 +1,2 @@
 # 410labs
-calss - web development labs
+class - web development labs
